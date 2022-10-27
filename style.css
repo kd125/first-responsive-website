@@ -1,0 +1,16 @@
+body{
+  display: grid;
+  grid-template-rows: 50% 50%;
+}
+
+.top-section{
+
+}
+
+.bottom-section{
+  display: flex;
+}
+
+article{
+  border: 2px solid navy;
+}
