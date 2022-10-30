@@ -37,6 +37,9 @@
     background-color: rgb(126, 220, 220);
   }
 
+h1, h3, p {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
 
 @media (max-width: 576px) {
